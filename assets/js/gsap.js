@@ -6,7 +6,7 @@ gsap.registerPlugin(TextPlugin);
 gsap.to(".lead", {
   delay: 1.5,
   duration: 2,
-  text: "Software Enggineer ",
+  text: "Software Engineer",
 });
 
 const galleryImages = document.querySelectorAll(".gallery-img");
